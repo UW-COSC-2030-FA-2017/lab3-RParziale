@@ -196,7 +196,7 @@ int main()
 
 	sumD = sumFracDouble(nL);
 	cout << "n: " << nL << " sum: " << sumD << endl;
-	//The expected value of this function is 0. But it's coming out to -1 and I have NO IDEA WHY AAAAHHHHHHHH.
+	//The expected value of this function is 0. But it's coming out to -1 due to the precision of a double.
 
 
 
